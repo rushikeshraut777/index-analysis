@@ -3,7 +3,7 @@ To compare different indexes and sector performance over time
 
 ### Note: 
 
-All the data present in the `History` folder is downloaded from [niftyindices](https://www.niftyindices.com/reports/historical-data)
+All the data present in the `Data` folder is downloaded from [niftyindices](https://www.niftyindices.com/reports/historical-data)
 
 
 ## TODO
